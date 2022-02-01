@@ -22,3 +22,10 @@ Every discord server owner can have their own NFT SaaS solution here.
 
 <https://www.nfttop.best>
 
+## Chain Support
+
+market contact already deploy to these chain:
+
+1. avalanche testnet, fuji: 0xf495dD8D8B4e38bdcF811B39A19eb2b1f9E24686
+2. rinkeby: 0x2eF6634dA8F639f4DB429f8db4F7E624b1C6b221
+3. mumbai: 0x46E59d3FfdEA4a20c6E6b54948bf61D9bfbbc1C3
